@@ -3,6 +3,6 @@ variable "region" {
 }
 
 variable "keyname" {
-  default     = "docker_keypair"
+  default     = "xyz_keypair"
   description = "Name of AWS key pair"
 }
